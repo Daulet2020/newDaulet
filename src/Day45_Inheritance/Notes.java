@@ -1,8 +1,8 @@
 package Day45_Inheritance;
 
 public class Notes {
-	/*
-			 Topic:  
+			/*
+					Topic:  
 		        1. default access modifier
 		        2. Multiple classes
 		        3. OOP Inheritance  
@@ -49,7 +49,19 @@ public class Notes {
 		                1. reusability 
 		                2. easy to maintain
 		POM: page object module
-
+		java Review: 
+		            Encapsulation.    (done)
+		            protected vs Default. (done)
+		            Inheritance.  
+		OOP Encapsulation: hiding the data
+		                1. private access modifier
+		                2. getter/setters
+		    private: only viosible within the class
+		    getter (read only): instance method, return-type of this instance method MUST match with the private instance variable
+		                access modifier should be public
+		default: not visible outside the package
+		protected: not visible outside the package, but it can be inherited outside package
+		
 
 	 */
 
