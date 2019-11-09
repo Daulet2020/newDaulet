@@ -47,6 +47,8 @@ public class InheritanceReveiw extends B {
         methodA();
         methodC();
     }
+
+	public int staticNum;
     
     
 }
