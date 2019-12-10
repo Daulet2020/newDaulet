@@ -1,4 +1,4 @@
-package Day46_SuperKeyWord;
+package Day46_SuperKeyword;
 
 class A {
     

@@ -36,7 +36,7 @@ public class AmericanAirlines {
         System.out.println(Shirin.getSalary());
         
         EmployeeInfo Rohan = new EmployeeInfo();
-        	Rohan.setInfo ("Rohan", 321515, (byte)20, 150000);
+        	Rohan.setInfo("Rohan", 321515, (byte)20, 150000);
         	
         
         

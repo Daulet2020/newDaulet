@@ -1,6 +1,8 @@
-package day46_SuperKeyword;
+package Day46_SuperKeyword;
 
-import day45_Protected_Default.ProtectedVariables;
+import Day45_Protected_Default.InheritanceReveiw;
+import Day45_Protected_Default.ProtectedVariables;
+
 class Data {
     
     public  int num1 =10;
@@ -9,7 +11,7 @@ class Data {
     int num4 = 40;
     
 }
-public class InheritanceReveiw  extends Data{
+public class InheritanceReview  extends Data{
     //          sub                     super           
     
     /*

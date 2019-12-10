@@ -39,9 +39,9 @@ abstract method: a method that's meant to be override
                  cannot be static, private, final
                  Only the instance method can be override
                  hides the implementation details
-            declearation of abstract method:
+            declaration of abstract method:
                         Access-Modifier  abstract  return-type  name(parameter);
-                        Access modifers: public, protected, default
+                        Access modifiers: public, protected, default
                         return-type: void, primitives, non-primitives(object)
                         name: can be any name
                         parameter: any data-type ( primitives and non primitves)
