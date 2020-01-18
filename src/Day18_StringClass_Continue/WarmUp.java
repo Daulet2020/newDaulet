@@ -26,8 +26,8 @@ public class WarmUp {
        lastName.ig
 //String initials2 = "" + firstName.charAt(0) + "."+lastName.charAt(0);
                
-       initials = initials.toUpperCase();
-       System.out.println("Initial is: "+initials);
+       initials1 = initials1.toUpperCase();
+       System.out.println("Initial is: "+initials1);
                
                
        //      'A'+'B' ==> 'AB' (Wrong)

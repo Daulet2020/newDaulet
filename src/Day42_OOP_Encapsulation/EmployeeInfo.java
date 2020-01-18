@@ -50,4 +50,10 @@ public class EmployeeInfo {
 		this.Salary = Salary;
 	}
 	
+	public void setInfo(String Name, long SSN, byte Age, double Salary) {
+		this.Name = Name;
+		this.SSN = SSN;
+		this.Age = Age;
+		this.Salary = Salary;
+	}
 }

@@ -1,3 +1,0 @@
-module Daulet {
-	requires poi;
-}

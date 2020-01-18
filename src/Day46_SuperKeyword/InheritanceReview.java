@@ -1,6 +1,6 @@
 package Day46_SuperKeyword;
 
-import Day45_Protected_Default.InheritanceReveiw;
+//import Day45_Protected_Default.InheritanceReveiw;
 import Day45_Protected_Default.ProtectedVariables;
 
 class Data {
